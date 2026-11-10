@@ -32,7 +32,7 @@
 
 📺 [Video guide](https://github.com/Mkhimer69/AWS-Toolkit/blob/main/screenshots/install-tampermonkey.mp4)
 
-2. Install **iCabbi Toolkit** from the release/raw link *(coming soon)*
+2. Install **iCabbi Toolkit** from the release/raw link  [Install iCabbi Toolkit](https://github.com/Mkhimer69/iCabbi-Toolkit/releases/latest/download/iCabbi-Toolkit.user.js)
 3. Open the iCabbi wallboard page (`…/solstats/wallboard.php`) — the panel
    appears top-right and starts streaming
 4. Drag it where you want it; the position is remembered
