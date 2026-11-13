@@ -39,9 +39,9 @@
 
 ## 📥 Installation
 
-1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
+1. Install the [Tampermonkey](https://github.com/Mkhimer69/AWS-Toolkit/raw/refs/heads/main/screenshots/install-tampermonkey.mp4) browser extension
 
-📺 [Video guide](https://github.com/Mkhimer69/AWS-Toolkit/blob/main/screenshots/install-tampermonkey.mp4)
+📺 [Video guide](https://github.com/Mkhimer69/AWS-Toolkit/raw/refs/heads/main/screenshots/install-tampermonkey.mp4)
 
 2. **[➜ Install iCabbi Toolkit](https://github.com/Mkhimer69/iCabbi-Toolkit/releases/latest/download/iCabbi-Toolkit.user.js)** — Tampermonkey opens its install dialog
 3. Open the iCabbi wallboard page (`…/solstats/wallboard.php`) — the panel
